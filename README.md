@@ -1,10 +1,10 @@
 # It Might Be a Small World 
 
 It's nothing personal. It's not business either. And I'm not Italian.  
-Written by Richard Pham. 
+A poem written by me, Richard Pham. 
 ---------------------------------------------------------------------
 
-It might be a small world.
+It might be a small world.  
 But it still isn't owned by the Judeans,
 the Brittanians, the Germanians,
 the Schinians, the Schlavians,
