@@ -1,9 +1,8 @@
 # It Might Be a Small World 
 
-It's nothing personal. It's not business either. And I'm not Italian. 
+It's nothing personal. It's not business either. And I'm not Italian.  
+Written by Richard Pham. 
 ---------------------------------------------------------------------
-
-# It Might Be a Small World
 
 It might be a small world.
 But it still isn't owned by the Judeans,
